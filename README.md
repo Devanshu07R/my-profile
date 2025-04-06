@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20in%20Progress...;AI%20%7C%20ML%20%7C%20DSA%20Explorer;Code.%20Create.%20Innovate.&center=true&width=500&height=100&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20in%20Progress...;AI%20%7C%20ML%20%7C%20DSA%20Explorer;Code.%20Create.%20Innovate.&center=true&width=500&height=45&pause=1000" />
 </p>
 
 <!-- GIF Banner -->
