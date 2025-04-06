@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=tokyonight&hide_title=true" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Devanshu07R&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Devanshu07R&theme=fire&date_format=M%20j%5B%2C%20Y%5D" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=tokyonight" />
 </p>
