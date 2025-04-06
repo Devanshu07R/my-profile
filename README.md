@@ -5,6 +5,11 @@
   <b>Passionate C++ & Backend Developer | AI Enthusiast | Building <i>D² NutriAI</i></b>
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Engineer%20in%20Progress...;AI%20%7C%20ML%20%7C%20DSA%20Explorer;Code.%20Create.%20Innovate.&center=true&width=500&height=25&pause=1000" />
+</p>
+
 <!-- GIF Banner -->
 <p align="center">
   <img src="assets/devanshu-coding.gif" alt="Devanshu Coding" width="100%">
@@ -84,7 +89,7 @@
 ### 🎧 Spotify Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ualyravxbi3fa7hj5w4soqlwz4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
 </p>
 
 ---
