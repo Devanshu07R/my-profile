@@ -49,14 +49,36 @@
 
 ---
 
+### 🌓 Theme Toggle
+
+<p align="center">
+  <a href="https://github.com/Devanshu07R#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/🌙%20Dark%20Mode-222222?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devanshu07R#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/☀️%20Light%20Mode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=tokyonight&hide_title=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=tokyonight&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=default&hide_title=true" />
+  </picture>
   <br>
-  <img src="https://streak-stats.demolab.com?user=Devanshu07R&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Devanshu07R&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=Devanshu07R&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
+  </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=default" />
+  </picture>
 </p>
 
 ---
