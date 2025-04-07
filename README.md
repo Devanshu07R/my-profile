@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Backend%20Engineer...;AI%20%7C%20ML%20%7C%20DSA%20Enthuasists%20in%20cpp;Code.%20Create.%20Innovate.&center=true&width=500&height=45&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Backend%20Engineer...;AI%20%7C%20ML%20%7C%20DSA%20Enthusiast%20in%20C++;Code.%20Create.%20Innovate.&center=true&width=500&height=45&pause=1000" />
 </p>
 
 <!-- GIF Banner -->
@@ -49,36 +49,14 @@
 
 ---
 
-### 🌓 Theme Toggle
-
-<p align="center">
-  <a href="https://github.com/Devanshu07R#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/🌙%20Dark%20Mode-222222?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Devanshu07R#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/☀️%20Light%20Mode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</p>
-
----
-
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=tokyonight&hide_title=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=default&hide_title=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devanshu07R&show_icons=true&theme=tokyonight&hide_title=true" />
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Devanshu07R&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=Devanshu07R&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Devanshu07R&theme=fire&date_format=M%20j%5B%2C%20Y%5D" />
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=default" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu07R&layout=compact&theme=tokyonight" />
 </p>
 
 ---
