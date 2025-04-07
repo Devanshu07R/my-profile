@@ -12,7 +12,7 @@
 
 <!-- GIF Banner -->
 <p align="center">
-  <img src="assets/devanshu-coding.gif" alt="Devanshu Coding" width="100%">
+<img src="https://github.com/Devanshu07R/my-profile/blob/main/assets/devanshu-illustration.gif?raw=true" alt="Devanshu Banner" width="100%">
 </p>
 
 <!-- Profile Views -->
