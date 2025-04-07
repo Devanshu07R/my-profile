@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting%20Code%20with%20Purpose...;Backend%20Engineering%20in%20Progress;AI%20%7C%20ML%20%7C%20Web%203.0&center=true&width=500&height=30&font=Fira%20Code&pause=1000&color=00FEEF&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Backend%20Engineer...;AI%20%7C%20ML%20%7C%20DSA%20Enthuasists%20in%20cpp;Code.%20Create.%20Innovate.&center=true&width=500&height=45&pause=1000" />
 </p>
 <!-- GIF Banner -->
 <p align="center">
