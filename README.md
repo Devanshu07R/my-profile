@@ -6,10 +6,10 @@
 </p>
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting%20Code%20with%20Purpose...;Backend%20Engineering%20in%20Progress;AI%20%7C%20ML%20%7C%20Web%203.0&center=true&width=500&height=45&font=Fira%20Code&pause=1000&color=00FEEF&vCenter=true">
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting%20Code%20with%20Purpose...;Backend%20Engineering%20in%20Progress;AI%20%7C%20ML%20%7C%20Web%203.0&center=true&width=500&height=30&font=Fira%20Code&pause=1000&color=00FEEF&vCenter=true">
+</p>
 <!-- GIF Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devanshu07R/my-profile/main/assets/devanshu-bannner.gif" alt="Devanshu Banner" width="100%">
