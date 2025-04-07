@@ -12,9 +12,8 @@
 
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://github.com/Devanshu07R/my-profile/blob/main/assets/devanshu-illustration.gif?raw=true" alt="Devanshu Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Devanshu07R/my-profile/main/assets/devanshu-bannner.gif" alt="Devanshu Banner" width="100%">
 </p>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devanshu07R&label=Profile%20views&color=0e75b6&style=flat" alt="Devanshu07R" />
