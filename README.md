@@ -6,14 +6,15 @@
 </p>
 
 <!-- Typing Animation -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Backend%20Engineer...;AI%20%7C%20ML%20%7C%20DSA%20Enthuasists%20in%20cpp;Code.%20Create.%20Innovate.&center=true&width=500&height=45&pause=1000" />
 </p>
+
 <!-- GIF Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devanshu07R/my-profile/main/assets/devanshu-bannner.gif" alt="Devanshu Banner" width="100%">
 </p>
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devanshu07R&label=Profile%20views&color=0e75b6&style=flat" alt="Devanshu07R" />
@@ -32,10 +33,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devanshudasgupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:dasguptadevanshu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge"></a>
-  <a href="https://twitter.com/DevanshuD_Codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge"></a>
-  <a href="https://dev.to/devanshudasgupta"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/devanshudasgupta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dasguptadevanshu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/DevanshuD_Codes" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/devanshudasgupta" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,7 +44,7 @@
 ### 🧠 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,html,css,js,nodejs,react,nextjs,express,mongodb,mysql,flask,docker,git,github,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,jupyter,ruby,linux,go,jenkins,ts,html,css,js,nodejs,react,nextjs,express,mongodb,mysql,flask,docker,git,github,postman&perline=8" />
 </p>
 
 ---
